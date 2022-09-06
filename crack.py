@@ -791,11 +791,11 @@ logo = """
 
 \033[0;95m═══════════════════════════════════════════
 
-\033[0;92m>>[\033[0;93mAWM FREE   :\033[0;92mMR.DEVIL       
+\033[0;92m>>[\033[0;93mAWM     :\033[0;92mAWM Mirwais Danishyar     
 
-\033[0;92m>>[\033[0;93mAWM nm :\033[0;92mMRD PRO cracker v3.0.6
+\033[0;92m>>[\033[0;93mAWM nm  :\033[0;92mMRD PRO cracker v3.0.6
 
-\033[0;92m>>[\033[0;93mMirwais:\033[0;92mPROGRAMMER & DARK HACKER
+\033[0;92m>>[\033[0;93mAWM Team:\033[0;92mPROGRAMMER & DARK HACKER
 
 \033[0;95m═══════════════════════════════════════════"""
 
